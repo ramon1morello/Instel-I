@@ -1,0 +1,13 @@
+1º:
+
+~mostrar a FIG1~
+
+Foi escolhido na internet um motor para ser a bomba da piscina, porque não tinha uma tabela com cargas sugeridas.
+
+Olhei as informações do motor e calculei a corrente dele, a corrente é menor que 10A, mas eu ainda devo continuar tratando como TUE, certo? Por causa do local. 
+A mesma pergunta serve para o portão da garagem!
+
+
+2º: 
+
+O ar condicionado escolhido possui corrente menor que 10A, ainda deve ser tratado como TUE?
