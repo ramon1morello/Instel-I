@@ -11,3 +11,6 @@ A mesma pergunta serve para o portão da garagem!
 2º: 
 
 O ar condicionado escolhido possui corrente menor que 10A, ainda deve ser tratado como TUE?
+
+
+Resposta gabriel para as duas perguntas: Acho que sim, pq a gnt ta só prevendo o uso de um ar condicionado de 1650VA e um motor de 246, porém pode ser que o morador opte por botar um mais potente, mas independente de tudo, acho que todos vão ser TUE's aí.
