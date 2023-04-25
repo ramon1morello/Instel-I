@@ -13,4 +13,12 @@ A mesma pergunta serve para o portão da garagem!
 O ar condicionado escolhido possui corrente menor que 10A, ainda deve ser tratado como TUE?
 
 
-Resposta gabriel para as duas perguntas: Acho que sim, pq a gnt ta só prevendo o uso de um ar condicionado de 1650VA e um motor de 246, porém pode ser que o morador opte por botar um mais potente, mas independente de tudo, acho que todos vão ser TUE's aí.
+
+3º: 
+
+Ao longo do semestre você tem dito que é recomendado arredondar as cargas, para ficar melhor na hora dos cálculos. Estava se referindo a carga de iluminação, correto?
+Por exemplo a carga da sala dá 460 VA, arredondar para para 500 VA?
+
+4º:
+
+A garagem pelo tamanho dela e pelas regras, nela tem espaço para até 4 tomadas, mas não é comum usar essa quantidade em garagem. isso é escolha minha?
