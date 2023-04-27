@@ -1,0 +1,58 @@
+SUITE (1 LAMPADA + 5 TOMADAS)
+	1x interruptor
+	2x tomada dupla
+	1x tomada simples
+	1X TUE
+
+SALA (5 LAMPADAS + 5 TOMADAS)
+	2x interruptor duplo
+	1x interruptor
+	2x tomada dupla
+	1x tomada simples
+
+QUARTO (1 LAMPADA + 3 TOMADAS)
+	1x interruptor
+	1x tomada dupla
+	1x tomada simples
+	1X TUE
+
+HALL (2 LAMPADA)
+	1x interruptor duplo (dentro da garagem,dividido com o da garagem) 
+	
+
+GARAGEM (2 LAMPADAS + 1 TOMADAS + TUE)
+	1x Interruptor duplo (é o mesmo que acende as lampadas do Hall)
+	1x Tomada DUPLA
+	1x TUE
+
+Cozinha (1 LAMPADA + 6 TOMADAS)
+	1x Interruptor
+	2x tomada dupla
+	2x tomada simples
+	TUE
+
+Closet (1 LAMPADA)
+	1x Interruptor
+
+Banheiros
+	1x interruptor
+	1X tomada simples
+	1X TUE (EXCETO EXTERNO)
+
+Corredor Lateral
+	1x interruptor three-way (na garagem/area externa tampada)
+
+Area de lazer externa
+	1x interruptor duplo
+	1x interruptor simples
+	2x tomada dupla
+
+Area de serviço
+	1x interruptor
+	1x tomada simples
+	1x tomada dupla
+	1x TUE
+
+Area piscina
+	1x interruptor duplo (na area de lazer)
+	1x TUE
