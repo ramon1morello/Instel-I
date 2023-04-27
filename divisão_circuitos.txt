@@ -1,0 +1,21 @@
+EXTERNO:
+Piscina 2x200 = VA
+Área Lazer + corredor frontal = 3x100 VA
+Corredor lateral = 3x100 VA
+Hall de entrada = 2x100 VA
+
+#TOTAL = 8x 100 + 2x 200
+
+INTERNO:
+Área de serviço = 1x100 VA
+3x Banheiros = 3x100 VA
+Closet = 1x100 VA
+Cozinha = 1x100 VA
+Garagem = 2x200 VA
+Quarto = 1x100 VA
+Sala = 5x100 VA
+Suite = 1X100 VA
+
+#TOTAL = 13x100 + 2x200
+
+
