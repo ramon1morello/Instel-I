@@ -1,0 +1,7 @@
+Toda tomada dupla 600VA -> será 130 cm [1]
+Toda tomada simples 600 VA -> será 80 cm
+Toda tomada simples 100 VA -> será 130 cm [1]
+
+[1]: divisão que favorece ao que é esperado para a cozinha (Fogão: tomada baixa, resto da cozinha: altura normal)
+
+
