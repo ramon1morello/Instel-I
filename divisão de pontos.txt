@@ -1,14 +1,22 @@
 SUITE (1 LAMPADA + 5 TOMADAS)
-	1x interruptor
-	2x tomada dupla
-	1x tomada simples
-	1X TUE
+	1x interruptor (closet) -> [circuito 2] ✔
+	1x interruptor (quarto) -> [circuito 2] ✔
+	1x tomada dupla		-> [CT 7] ✔
+	3x tomada simples	-> [CT 7] ✔
+	1X TUE			-> [CT 10] ✔ 
 
 SALA (5 LAMPADAS + 5 TOMADAS)
+	
+	#DEFINIÇÃO ANTIGA
 	2x interruptor duplo
 	1x interruptor
-	2x tomada dupla
-	1x tomada simples
+	2x tomada dupla	-> []
+	1x tomada simples -> []
+
+	#DEFINIÇÃO NOVA
+	1x par de interruptor three-way (vai controlar 4 pontos de luz da sala)		-> [circuito 2]
+	1x interruptor simples (vai controlar 1 ponto de luz, o mais proximo da porta) 	-> [circuito 2]
+	as tomadas permanecem
 
 QUARTO (1 LAMPADA + 3 TOMADAS)
 	1x interruptor
