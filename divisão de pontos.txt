@@ -17,7 +17,9 @@ QUARTO (1 LAMPADA + 3 TOMADAS)
 	1X TUE
 
 HALL (2 LAMPADA)
-	1x interruptor duplo (dentro da garagem,dividido com o da garagem) 
+	1x interruptor duplo (dentro da garagem,dividido com o da garagem)
+		1º botão: acende as 2 lampadas do Hall
+		2º botão: acende as 2 lampadas da Garagem
 	
 
 GARAGEM (2 LAMPADAS + 1 TOMADAS + TUE)
@@ -43,11 +45,17 @@ Corredor Lateral
 	1x interruptor three-way (na garagem/area externa tampada)
 
 Area de lazer externa
+	#DEFINIÇÃO ANTIGA: https://prnt.sc/BSlC0G4Uy8Hy
 	*Lampadas da área de lazer são circuito 1
 	1x interruptor duplo
-	1x interruptor simples (duplo) {1 duplo pra lazer + 1 duplo pra piscina}
+	1x interruptor simples
 	2x tomada dupla
 
+	#DEFINIÇÃO NOVA: https://prnt.sc/ME3FuGPeg-0N
+	* Remover o segundo interruptor duplo da área de Lazer, deixar apenas 1
+		1º botão: 2 lampadas da piscina
+		2º botão: 2 lampadas da área de lazer
+	
 Area de serviço
 	1x interruptor
 	1x tomada simples
