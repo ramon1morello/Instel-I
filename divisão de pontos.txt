@@ -43,8 +43,9 @@ Corredor Lateral
 	1x interruptor three-way (na garagem/area externa tampada)
 
 Area de lazer externa
+	*Lampadas da área de lazer são circuito 1
 	1x interruptor duplo
-	1x interruptor simples
+	1x interruptor simples (duplo) {1 duplo pra lazer + 1 duplo pra piscina}
 	2x tomada dupla
 
 Area de serviço
