@@ -24,16 +24,17 @@ QUARTO (1 LAMPADA + 3 TOMADAS)
 	1x tomada simples
 	1X TUE
 
-HALL (2 LAMPADA)
-	1x interruptor duplo (dentro da garagem,dividido com o da garagem)
-		1º botão: acende as 2 lampadas do Hall
-		2º botão: acende as 2 lampadas da Garagem
+HALL (2 LAMPADA) 
+	1x interruptor duplo (dentro da garagem,dividido com o da garagem) -> [CT 1 e 2] ✔✔ #NÃO TENHO CERTEZA SOBRE A CAMPAINHA, NEM SOBRE AS LAMPADAS
+		1º botão: acende as 2 lampadas do Hall 
+		2º botão: acende as 2 lampadas da Garagem 
+	1x Campainha ✔ #virou Circuito 1, e é isso.
 	
 
 GARAGEM (2 LAMPADAS + 1 TOMADAS + TUE)
-	1x Interruptor duplo (é o mesmo que acende as lampadas do Hall)
-	1x Tomada DUPLA
-	1x TUE
+	1x Interruptor duplo (é o mesmo que acende as lampadas do Hall) -> [CT 1 e 2] ✔✔
+	1x Tomada DUPLA -> [CT 9] ✔
+	1x TUE -> [CT 17] ✔
 
 Cozinha (1 LAMPADA + 6 TOMADAS)
 	1x Interruptor
