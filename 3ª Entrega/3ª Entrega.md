@@ -17,5 +17,5 @@
 #10ª Etapa
 
 - Diagrama unifilar
-- Fazer o PDF do impossível e imprimir.
+- Fazer o PDF do impossível e imprimir. (O PDF precisa estar com escala de escalimetro)
 - FIM!
